@@ -1,0 +1,15 @@
+* {
+  font-family: sans-serif;
+}
+
+.pokemon-img {
+  width: 200px;
+
+  align-self: center;
+  grid-area: img;
+}
+
+.pokemon {
+  display: flex;
+  flex-direction: column;
+}
